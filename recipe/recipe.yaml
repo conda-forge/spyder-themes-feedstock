@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "1.0.4"
+  version: "1.0.5"
 
 package:
   name: spyder-themes
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/s/spyder-themes/spyder_themes-${{ version }}.tar.gz
-  sha256: 38c4f8b14a6afa9ef3a82bda5c9c6a3490416f13af339671537fa50f4caf0bc7
+  sha256: 7fab31afad3b27cc6d212953a59171fc524ba05df0f516f7c32cf5a2ae1b7617
 
 build:
   number: 0
